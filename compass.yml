@@ -1,0 +1,16 @@
+name: moongraph
+id: ari:cloud:compass:e489ce12-950f-402e-8d4e-940f40450fe5:component/d3e19302-71bb-4ac1-ba88-53bb212819ec/3d786d3b-9e7d-4326-91c4-c75fbfb20314
+description: Rust library for scheduling, managing resources, and running DAGs 🌙
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/groupe-carvi/moongraph
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
